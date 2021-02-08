@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\Прикладная информатика\\Лаба1\\Лаба1.csproj": {}
+    "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\applied-informatics-C-Sharp\\Лаба1\\Лаба1.csproj": {}
   },
   "projects": {
-    "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\Прикладная информатика\\Лаба1\\Лаба1.csproj": {
+    "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\applied-informatics-C-Sharp\\Лаба1\\Лаба1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\Прикладная информатика\\Лаба1\\Лаба1.csproj",
+        "projectUniqueName": "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\applied-informatics-C-Sharp\\Лаба1\\Лаба1.csproj",
         "projectName": "Лаба1",
-        "projectPath": "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\Прикладная информатика\\Лаба1\\Лаба1.csproj",
+        "projectPath": "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\applied-informatics-C-Sharp\\Лаба1\\Лаба1.csproj",
         "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
-        "outputPath": "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\Прикладная информатика\\Лаба1\\obj\\",
+        "outputPath": "D:\\Storage\\OneDrive - ITMO UNIVERSITY\\2 курс\\applied-informatics-C-Sharp\\Лаба1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
