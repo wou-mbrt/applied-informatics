@@ -64,11 +64,11 @@ namespace Лаба1
         }
         public static void ShellSort(ref int[] Data)
         {
-            int temp;
-            int n = Data.Length;
-            for (int step = n / 2; step > 0; step /= 2)
-                for (int i = step; i < n; i++)
+            for (int step = Data.Length / 2; step > 0; step /= 2)
+            {
+                for (int i = step; i < Data.Length; i++)
                 {
+                    int temp;
                     int j;
                     temp = Data[i];
                     for (j = i; j >= step; j -= step)
@@ -80,6 +80,7 @@ namespace Лаба1
                     }
                     Data[j] = temp;
                 }
+            }
         }
         static void WriteArray(int[] Data)
         {
