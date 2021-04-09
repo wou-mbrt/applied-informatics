@@ -1,0 +1,13 @@
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика 1.csprojAssemblyReference.cache
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика_1.Form1.resources
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика_1.Input.resources
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика_1.Properties.Resources.resources
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика 1.csproj.GenerateResource.cache
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика 1.csproj.CoreCompileInputs.cache
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\bin\Debug\Практика 1.exe.config
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\bin\Debug\Практика 1.exe
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\bin\Debug\Практика 1.pdb
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика 1.exe
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика 1.pdb
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика_1.Convert1.resources
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Практика 1\obj\Debug\Практика_1.AnalyzeWords.resources
