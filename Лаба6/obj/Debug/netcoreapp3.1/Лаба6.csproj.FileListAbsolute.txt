@@ -1,0 +1,13 @@
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\bin\Debug\netcoreapp3.1\Лаба6.exe
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\bin\Debug\netcoreapp3.1\Лаба6.deps.json
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\bin\Debug\netcoreapp3.1\Лаба6.runtimeconfig.json
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\bin\Debug\netcoreapp3.1\Лаба6.runtimeconfig.dev.json
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\bin\Debug\netcoreapp3.1\Лаба6.dll
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\bin\Debug\netcoreapp3.1\Лаба6.pdb
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\obj\Debug\netcoreapp3.1\Лаба6.csprojAssemblyReference.cache
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\obj\Debug\netcoreapp3.1\Лаба6.AssemblyInfoInputs.cache
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\obj\Debug\netcoreapp3.1\Лаба6.AssemblyInfo.cs
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\obj\Debug\netcoreapp3.1\Лаба6.csproj.CoreCompileInputs.cache
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\obj\Debug\netcoreapp3.1\Лаба6.dll
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\obj\Debug\netcoreapp3.1\Лаба6.pdb
+D:\Storage\OneDrive - ITMO UNIVERSITY\2 курс\applied-informatics\Лаба6\obj\Debug\netcoreapp3.1\Лаба6.genruntimeconfig.cache
