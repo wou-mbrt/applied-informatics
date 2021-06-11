@@ -75,7 +75,7 @@ namespace Практика_1
         }
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ефимов Павел K3220\n Контакты:\n p4nuta.ru\n info@p4nuta.ru");
+            MessageBox.Show("Мамади Берете K3220\n Контакты:\n 274506@niuitmo.ru");
         }
         private void button4_Click(object sender, EventArgs e)
         {
